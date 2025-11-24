@@ -4,9 +4,9 @@ public class LargestOf2Numbers {
 
 	public static void main(String[] args) {
 		
-		int a=1000, b=500;
+		int a=105, b=40;
 	
-		if(a==b)
+		if(a>=b)
 		{
 			System.out.println("a is largest number");
 		}
