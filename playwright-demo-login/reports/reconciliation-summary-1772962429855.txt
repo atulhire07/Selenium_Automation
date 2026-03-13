@@ -1,0 +1,12 @@
+From: 03/02/2026
+To: 03/08/2026
+Locations processed: 5
+Total compared rows: 5
+Mismatch/Missing rows: 5
+CSV: C:\Users\Admin\eclipse-workspace\SeleniumDemoAtul\playwright-demo-login\reports\reconciliation-1772962429854.csv
+Location errors:
+- 360- bar at mueller: Go button not found after selecting date.
+- 363- Lubbock: Go button not found after selecting date.
+- 364- SA: Go button not found after selecting date.
+- 365-Austin: Go button not found after selecting date.
+- 366- Georgetown: Go button not found after selecting date.

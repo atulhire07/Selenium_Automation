@@ -1,0 +1,241 @@
+Processing category: SALADS
+Synced: SALADS
+Processing category: QUICHE
+Synced: QUICHE
+Processing category: COMBOS
+Synced: COMBOS
+Processing category: ALA CARTE
+Synced: ALA CARTE
+Processing category: HALF SANDWICHES
+Synced: HALF SANDWICHES
+Processing category: DELIVERY
+Synced: DELIVERY
+Processing category: DEPOSIT
+Synced: DEPOSIT
+Processing category: EMPLOYEE PRICES 1
+Synced: EMPLOYEE PRICES 1
+Processing category: EMPLOYEE PRICES 2
+Synced: EMPLOYEE PRICES 2
+Processing category: CHIPS
+Synced: CHIPS
+Processing category: HOT BREAKFAST
+Synced: HOT BREAKFAST
+Processing category: Bread Open
+Synced: Bread Open
+Processing category: SALAD CATERING
+Synced: SALAD CATERING
+Processing category: MISC. ITEMS
+Synced: MISC. ITEMS
+Processing category: CATERING
+Synced: CATERING
+Processing category: Pastries
+Synced: Pastries
+Processing category: WHOLESALE MISC
+Synced: WHOLESALE MISC
+Processing category: BAKERY VIENNE
+Synced: BAKERY VIENNE
+Processing category: COOKIES
+Synced: COOKIES
+Processing category: BARS/STRUDEL
+Skipped/Failed: BARS/STRUDEL
+Processing category: CROISSANT/LOAVES
+Skipped/Failed: CROISSANT/LOAVES
+Processing category: QUICHE/PIES
+Skipped/Failed: QUICHE/PIES
+Processing category: BREADS A-D
+Synced: BREADS A-D
+Processing category: BREADS E-P
+Synced: BREADS E-P
+Processing category: BREADS Q-Z
+Synced: BREADS Q-Z
+Processing category: ROLLS/BUNS
+Skipped/Failed: ROLLS/BUNS
+Processing category: 6 CAKES
+Synced: 6 CAKES
+Processing category: 8 CAKES
+Synced: 8 CAKES
+Processing category: 9 CAKES
+Synced: 9 CAKES
+Processing category: 10 CAKES
+Synced: 10 CAKES
+Processing category: 12 CAKES
+Synced: 12 CAKES
+Processing category: 14 CAKES
+Synced: 14 CAKES
+Processing category: 1/4 SHEET
+Skipped/Failed: 1/4 SHEET
+Processing category: 1/2 SHEET
+Skipped/Failed: 1/2 SHEET
+Processing category: FULL SHEET
+Synced: FULL SHEET
+Processing category: 1/8 = 8 X 6
+Skipped/Failed: 1/8 = 8 X 6
+Processing category: DOZEN'S
+Skipped/Failed: DOZEN'S
+Processing category: DOZEN'S PASTRY
+Skipped/Failed: DOZEN'S PASTRY
+Processing category: SPECIALITY CAKES
+Synced: SPECIALITY CAKES
+Processing category: CAKE ADD ON/EXTRAS
+Skipped/Failed: CAKE ADD ON/EXTRAS
+Processing category: SLICES/MINI'S
+Skipped/Failed: SLICES/MINI'S
+Processing category: TARTS
+Synced: TARTS
+Processing category: SEASONAL
+Synced: SEASONAL
+Processing category: DEPOSITS/DELIVERY
+Skipped/Failed: DEPOSITS/DELIVERY
+Processing category: MERCHANDISE
+Synced: MERCHANDISE
+Processing category: ADD ONS
+Synced: ADD ONS
+Processing category: SPREADS/SAUCES
+Skipped/Failed: SPREADS/SAUCES
+Processing category: CHEESES
+Synced: CHEESES
+Processing category: DRESSINGS
+Synced: DRESSINGS
+Processing category: BREADS
+Synced: BREADS
+Processing category: NO
+Synced: NO
+Processing category: CHICKEN MOD
+Synced: CHICKEN MOD
+Processing category: SOUPS
+Synced: SOUPS
+Processing category: SIDE COMBOS
+Synced: SIDE COMBOS
+Processing category: SANDWICH
+Synced: SANDWICH
+Processing category: EXTRAS
+Synced: EXTRAS
+Processing category: ADD SOUPS
+Synced: ADD SOUPS
+Processing category: ONLY
+Synced: ONLY
+Processing category: 1/2 ?SANDWICH
+Skipped/Failed: 1/2 ?SANDWICH
+Processing category: DELI MEATS
+Synced: DELI MEATS
+Processing category: ROLLS
+Synced: ROLLS
+Processing category: PARKER
+Synced: PARKER
+Processing category: SUB
+Synced: SUB
+Processing category: PARKER ROLLS
+Synced: PARKER ROLLS
+Processing category: SALAD CHICKEN
+Synced: SALAD CHICKEN
+Processing category: SALAD ADD-ONS
+Synced: SALAD ADD-ONS
+Processing category: GRILL SANDWICH
+Synced: GRILL SANDWICH
+Processing category: Sub Ck Breast
+Synced: Sub Ck Breast
+Processing category: Egg Croist
+Synced: Egg Croist
+Processing category: SIDES
+Synced: SIDES
+Processing category: MUFFINS
+Synced: MUFFINS
+Processing category: DANISH
+Synced: DANISH
+Processing category: SCONES
+Synced: SCONES
+Processing category: CAKE ADD-ONS
+Synced: CAKE ADD-ONS
+Processing category: JAM SIDES
+Synced: JAM SIDES
+Processing category: GRILL
+Synced: GRILL
+Processing category: CAN'T MAKE
+Skipped/Failed: CAN'T MAKE
+Processing category: Strip
+Synced: Strip
+Processing category: APPROVAL NEEDED
+Synced: APPROVAL NEEDED
+Processing category: JAMS
+Synced: JAMS
+Processing category: COFFEEBEANS
+Synced: COFFEEBEANS
+Processing category: COFFEE CAKES
+Synced: COFFEE CAKES
+Processing category: HEART CAKES
+Synced: HEART CAKES
+Processing category: BUCHE
+Synced: BUCHE
+Processing category: SUGAR COOKIES
+Synced: SUGAR COOKIES
+Processing category: CHOC. STRAWBERRIES
+Synced: CHOC. STRAWBERRIES
+Processing category: ADD ON DRINKS
+Synced: ADD ON DRINKS
+Processing category: MILK
+Synced: MILK
+Processing category: COFFEE MODS
+Synced: COFFEE MODS
+Processing category: SYRUP FLAVORS
+Synced: SYRUP FLAVORS
+Processing category: S.F. SYRUPS
+Synced: S.F. SYRUPS
+Processing category: BEV MOD
+Synced: BEV MOD
+Processing category: BLENDER
+Synced: BLENDER
+Processing category: ALCOHOL
+Synced: ALCOHOL
+Processing category: ESPRESSO
+Synced: ESPRESSO
+Processing category: RED BULL
+Synced: RED BULL
+Processing category: COFFEE FLAVORS
+Synced: COFFEE FLAVORS
+Processing category: OLE OPTIONS
+Synced: OLE OPTIONS
+Processing category: SIZES
+Synced: SIZES
+Processing category: Chai sizes
+Synced: Chai sizes
+Processing category: MILKS
+Synced: MILKS
+Processing category: EGGS
+Synced: EGGS
+Processing category: TOAST
+Synced: TOAST
+Processing category: Jam mod
+Synced: Jam mod
+Processing category: Combo Meat
+Synced: Combo Meat
+Processing category: CAKES
+Synced: CAKES
+Processing category: DRINKS
+Synced: DRINKS
+Processing category: ICE TEAS
+Synced: ICE TEAS
+Processing category: COFFEE
+Synced: COFFEE
+Processing category: HOT TEA
+Synced: HOT TEA
+Processing category: SNAPPLE
+Synced: SNAPPLE
+Processing category: JUICES
+Synced: JUICES
+Processing category: WATER
+Synced: WATER
+Processing category: WINE
+Synced: WINE
+Processing category: BEER
+Synced: BEER
+Processing category: SODA
+Synced: SODA
+Processing category: Bistro Vienne
+Synced: Bistro Vienne
+Processing category: EMPLOYEE CHEESES
+Synced: EMPLOYEE CHEESES
+Processing category: Blt
+Synced: Blt
+Processing category: DECAF TEA
+Synced: DECAF TEA
+Processing category: Toast Mod

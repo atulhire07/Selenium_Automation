@@ -1,0 +1,6 @@
+location,report_date,employee,role,raw_time_values,raw_tips_values,time_management_hours,tips_hours,delta_hours,status,note
+"360- bar at mueller","","","","","",,,,MISMATCH,"Location processing failed: Go button not found after selecting date."
+"363- Lubbock","","","","","",,,,MISMATCH,"Location processing failed: Go button not found after selecting date."
+"364- SA","","","","","",,,,MISMATCH,"Location processing failed: Go button not found after selecting date."
+"365-Austin","","","","","",,,,MISMATCH,"Location processing failed: Go button not found after selecting date."
+"366- Georgetown","","","","","",,,,MISMATCH,"Location processing failed: Go button not found after selecting date."

@@ -1,0 +1,488 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_100 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 67,
+    "commit": true
+  },
+  "generatedAt": "2026-03-13T05:59:16.168Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "Milk",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 745."
+    },
+    {
+      "excelRow": 3,
+      "itemName": "OJ",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 747."
+    },
+    {
+      "excelRow": 4,
+      "itemName": "Smoothie/Blender",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 751."
+    },
+    {
+      "excelRow": 5,
+      "itemName": "Tea Bag",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 753."
+    },
+    {
+      "excelRow": 6,
+      "itemName": "Hot Chocolate",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 755."
+    },
+    {
+      "excelRow": 7,
+      "itemName": "Latte",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 757."
+    },
+    {
+      "excelRow": 8,
+      "itemName": "Mocha",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 759."
+    },
+    {
+      "excelRow": 9,
+      "itemName": "Italian Soda",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 765."
+    },
+    {
+      "excelRow": 10,
+      "itemName": "Perrier/Crystal Geyser",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 767."
+    },
+    {
+      "excelRow": 11,
+      "itemName": "Cup",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 769."
+    },
+    {
+      "excelRow": 12,
+      "itemName": "Espresso Shot",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 773."
+    },
+    {
+      "excelRow": 13,
+      "itemName": "LARGE  LAYS",
+      "category": "CHIPS",
+      "status": "created",
+      "details": "Created from source item 783."
+    },
+    {
+      "excelRow": 14,
+      "itemName": "DORITOS",
+      "category": "CHIPS",
+      "status": "created",
+      "details": "Created from source item 787."
+    },
+    {
+      "excelRow": 15,
+      "itemName": "BBQ   CHIPS",
+      "category": "CHIPS",
+      "status": "created",
+      "details": "Created from source item 789."
+    },
+    {
+      "excelRow": 16,
+      "itemName": "JALAPENO CHIPS",
+      "category": "CHIPS",
+      "status": "created",
+      "details": "Created from source item 791."
+    },
+    {
+      "excelRow": 17,
+      "itemName": "Egg Croissants",
+      "category": "HOT BREAKFAST",
+      "status": "created",
+      "details": "Created from source item 821."
+    },
+    {
+      "excelRow": 18,
+      "itemName": "BREAD OPEN",
+      "category": "Bread Open",
+      "status": "created",
+      "details": "Created from source item 837."
+    },
+    {
+      "excelRow": 19,
+      "itemName": "ROLL",
+      "category": "Bread Open",
+      "status": "created",
+      "details": "Created from source item 841."
+    },
+    {
+      "excelRow": 20,
+      "itemName": "BAGUETTE",
+      "category": "Bread Open",
+      "status": "created",
+      "details": "Created from source item 843."
+    },
+    {
+      "excelRow": 21,
+      "itemName": "1 LB LOAF",
+      "category": "Bread Open",
+      "status": "created",
+      "details": "Created from source item 845."
+    },
+    {
+      "excelRow": 22,
+      "itemName": "2 LB LOAF",
+      "category": "Bread Open",
+      "status": "created",
+      "details": "Created from source item 847."
+    },
+    {
+      "excelRow": 23,
+      "itemName": "PROVENSAL BREAD",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 873 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 24,
+      "itemName": "NO CRUST",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 877 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 25,
+      "itemName": "GRILLED",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 879 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 26,
+      "itemName": "RYE SOURDOUGH",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 883 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 27,
+      "itemName": "CROISSANT",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 887."
+    },
+    {
+      "excelRow": 28,
+      "itemName": "3 SEED",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 891 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 29,
+      "itemName": "COUNTRY FRENCH",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 895 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 30,
+      "itemName": "SOUR DOUGH",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 899 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 31,
+      "itemName": "BAGUETTE",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 901 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 32,
+      "itemName": "WHOLE WHEAT",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 905 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 33,
+      "itemName": "STANDARD BREAD",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 909 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 34,
+      "itemName": "TOASTED",
+      "category": "BREADS",
+      "status": "created",
+      "details": "Created from source item 913."
+    },
+    {
+      "excelRow": 39,
+      "itemName": "NO AVACADO",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 931 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 40,
+      "itemName": "NO CRUTONS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 935 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 41,
+      "itemName": "NO HARD BOILED EGG",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 939 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 42,
+      "itemName": "NO TOMATO",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 943 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 43,
+      "itemName": "Silverware each",
+      "category": "MISC. ITEMS",
+      "status": "created",
+      "details": "Created from source item 945."
+    },
+    {
+      "excelRow": 44,
+      "itemName": "NO ONIONS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 947 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 45,
+      "itemName": "NO SPROUTS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 951 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 46,
+      "itemName": "NO CUCUMBERS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 955 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 47,
+      "itemName": "NO LETTUCE",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 959 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 48,
+      "itemName": "NO ARUGULA",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 961 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 49,
+      "itemName": "NO PICKLES",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 965 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 50,
+      "itemName": "NO WAX PEPPERS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 969 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 51,
+      "itemName": "NO THOUSAND ISLAND",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 973 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 52,
+      "itemName": "NO WALNUTS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 977 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 53,
+      "itemName": "NO SUNFLOWER SEEDS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 981 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 54,
+      "itemName": "NO SALSA",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 989 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 55,
+      "itemName": "NO COLE SLAW",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 991 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 56,
+      "itemName": "NO BACON",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 995 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 57,
+      "itemName": "NO COOKIE",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 999 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 58,
+      "itemName": "NO CRUSTINI",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1001 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 59,
+      "itemName": "NO DIJON MUSTARD",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1003 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 60,
+      "itemName": "NO CHEESE",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1005 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 61,
+      "itemName": "NO BLUE CHEESE",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1007 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 62,
+      "itemName": "NO SPREAD",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1009 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 63,
+      "itemName": "NO COUSCOUS",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1011 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 64,
+      "itemName": "NO DRESSING",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1013 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 65,
+      "itemName": "NO MAYO",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1015 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 66,
+      "itemName": "NO SALAMI",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1017 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 67,
+      "itemName": "NO PESTO",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1019 (source duplicates: 2)."
+    },
+    {
+      "excelRow": 82,
+      "itemName": "NO SAURKRAUT",
+      "category": "NO",
+      "status": "created",
+      "details": "Created from source item 1069."
+    },
+    {
+      "excelRow": 83,
+      "itemName": "SAND TRAY +12",
+      "category": "CATERING",
+      "status": "created",
+      "details": "Created from source item 1071."
+    },
+    {
+      "excelRow": 85,
+      "itemName": "SAND TRAY -12",
+      "category": "CATERING",
+      "status": "created",
+      "details": "Created from source item 1077."
+    },
+    {
+      "excelRow": 91,
+      "itemName": "DOZEN PARKER ROLLS",
+      "category": "CATERING",
+      "status": "created",
+      "details": "Created from source item 1099."
+    },
+    {
+      "excelRow": 100,
+      "itemName": "HOT CHICKEN",
+      "category": "CHICKEN MOD",
+      "status": "created",
+      "details": "Created from source item 1137 (source duplicates: 2)."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "created": 67
+  }
+}

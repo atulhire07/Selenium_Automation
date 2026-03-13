@@ -1,5 +1,11 @@
 package Udemy;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class VariableDatatypes {
 
 	public static void main(String[] args) {
@@ -19,6 +25,7 @@ public class VariableDatatypes {
 		arr[2]=4;
 		arr[3]=5;
 		arr[4]=6;
+	
 		
 		
 		int[] arr2= {1,2,4,5,6,45,7,9,78,122};
@@ -39,19 +46,42 @@ public class VariableDatatypes {
 	    }
 		
 	    
-	    String[]name= {"rahul", "shetty", "academy"};
+	    String[]name1= {"rahul", "shetty", "academy"};
 	    
-	    for(int i=0; i<name.length;i++)
+	    for(int i=0; i<name1.length;i++)
 	    {
 	    	
-	    	System.out.println(name[i]);
+	    	System.out.println(name1[i]);
 	    }
-	     for(String s:name)
+	     for(String s:name1)
 	     {
 	    	 System.out.println(s);
 	     }
 	     
-
+	     List <String> a =new ArrayList<String>();    //Create object of the class- object.method
+         a.add("rahul");
+         a.add("shetty");
+         a.add("Academy");
+         a.add("selenium1233");
+        System.out.println(a.get(3));
+        
+        for(int i=0;i<a.size();i++)
+        {
+        	System.out.println(a.get(i));
+        }
+        System.out.println("****************");
+        for(String val:a)
+        {
+        	System.out.println(val);
+        }
+         
+        // item is present in ArrayList
+        System.out.println(a.contains("selenium1233"));
+        String [] name = {"rahul","shetty","selenium1233"};
+       List<String> nameArrayList=Arrays.asList(name);
+       nameArrayList.contains("selenium1233");
+        
+       
 	}
 
 }

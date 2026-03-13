@@ -5,7 +5,7 @@ public class EvenOddNumber {
 	public static void main(String[] args) {
 		
 		
-		int num=15;
+		int num=11;
 		
 		if(num%2==0)
 		{

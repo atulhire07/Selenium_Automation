@@ -1,0 +1,580 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_400 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "offset": 80,
+    "limit": 80,
+    "commit": true
+  },
+  "generatedAt": "2026-03-13T08:59:31.828Z",
+  "items": [
+    {
+      "excelRow": 150,
+      "itemName": "ONLY CUCUMBERS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 151,
+      "itemName": "ONLY LETTUCE",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 152,
+      "itemName": "ONLY ARUGULA",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 153,
+      "itemName": "ONLY PICKLES",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 154,
+      "itemName": "ONLY WAX PEPPERS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 155,
+      "itemName": "ONLY MAYO",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 156,
+      "itemName": "ONLY WALNUTS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 157,
+      "itemName": "ONLY SUNFLOWER SEEDS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 158,
+      "itemName": "ONLY OLIVES",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 159,
+      "itemName": "ONLY SALSA",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 160,
+      "itemName": "ONLY COLE SLAW",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 161,
+      "itemName": "ONLY BACON",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 162,
+      "itemName": "ONLY TURKEY",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 163,
+      "itemName": "ONLY HAM",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 164,
+      "itemName": "ONLY CHEESE",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 165,
+      "itemName": "ONLY MEAT",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 166,
+      "itemName": "ONLY DRESSING",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 167,
+      "itemName": "ONLY TUNA",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 168,
+      "itemName": "NO DRESSING",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 169,
+      "itemName": "NO MAYO",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 170,
+      "itemName": "NO SALAMI",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 171,
+      "itemName": "NO PESTO",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 201,
+      "itemName": "Flourless Square",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 202,
+      "itemName": "1/3 Bar",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 203,
+      "itemName": "English Triffle",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 204,
+      "itemName": "Creme Brulee",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 205,
+      "itemName": "Whole Apple Strudel",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 206,
+      "itemName": "Breadpudding",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 207,
+      "itemName": "Bars",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 208,
+      "itemName": "Zuchinni Loaf",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 209,
+      "itemName": "Cinn Bun",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 210,
+      "itemName": "Sm. Fresh Milled",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 211,
+      "itemName": "Sm. Mousse Cup",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 212,
+      "itemName": "Lg. Almond TeaRing",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 213,
+      "itemName": "Stollen",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 214,
+      "itemName": "Cobbler",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 215,
+      "itemName": "Lg. Mousse Cup",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 216,
+      "itemName": "Biscotti",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 217,
+      "itemName": "S/D Rye Bagt",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 218,
+      "itemName": "Fancy Danish",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 219,
+      "itemName": "Ricotta Tart",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 220,
+      "itemName": "Sugar Cookie",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 221,
+      "itemName": "3 Pear Tart",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 222,
+      "itemName": "Rolls: olive/rosemy",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 223,
+      "itemName": "Doz. Mini Boxed Cookies",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 224,
+      "itemName": "Bowl Ganache",
+      "category": "WHOLESALE MISC",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 225,
+      "itemName": "HOT CHICKEN",
+      "category": "CHICKEN MOD",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 226,
+      "itemName": "1/2 TURKEY",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 227,
+      "itemName": "1/2 TUNA",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 228,
+      "itemName": "1/2 HAM",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 229,
+      "itemName": "1/2 CHICKEN SALAD",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 230,
+      "itemName": "1/2 SALAMI",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 231,
+      "itemName": "1/2 ROAST BEEF",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 232,
+      "itemName": "1/2 MONTE CARLO",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 233,
+      "itemName": "1/2 VEGETARAIN",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 234,
+      "itemName": "1/2 TOFU",
+      "category": "1/2  SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 244,
+      "itemName": "Muffin",
+      "category": "BAKERY VIENNE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 245,
+      "itemName": "PASTRAMI",
+      "category": "DELI MEATS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 246,
+      "itemName": "TURKEY",
+      "category": "DELI MEATS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 247,
+      "itemName": "Raisin Cinn Roll",
+      "category": "BAKERY VIENNE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 248,
+      "itemName": "HAM",
+      "category": "DELI MEATS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 249,
+      "itemName": "Bear Claw",
+      "category": "BAKERY VIENNE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 250,
+      "itemName": "DRY SALAMI",
+      "category": "DELI MEATS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 251,
+      "itemName": "Open Vienne",
+      "category": "BAKERY VIENNE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 252,
+      "itemName": "ROAST BEEF",
+      "category": "DELI MEATS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 258,
+      "itemName": "P/P",
+      "category": "ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 259,
+      "itemName": "Wheat Roll",
+      "category": "ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 260,
+      "itemName": "No Roll",
+      "category": "ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 261,
+      "itemName": "Crustini (2)",
+      "category": "ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 266,
+      "itemName": "TURKEY",
+      "category": "PARKER",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 267,
+      "itemName": "HAM",
+      "category": "PARKER",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 268,
+      "itemName": "CHICKEN SAL",
+      "category": "PARKER",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 272,
+      "itemName": "SUB CHEDDAR",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 273,
+      "itemName": "SUB PROVOLONE",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 274,
+      "itemName": "SUB AVOCADO",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 275,
+      "itemName": "SUB TOMATO",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 276,
+      "itemName": "SUB BOIL EGG",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 277,
+      "itemName": "SUB SWISS",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 278,
+      "itemName": "SUB LETTUCE",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 279,
+      "itemName": "SUB SPROUTS",
+      "category": "SUB",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 80
+  }
+}

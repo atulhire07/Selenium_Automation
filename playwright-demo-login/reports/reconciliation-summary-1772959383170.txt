@@ -1,0 +1,12 @@
+From: 03/02/2026
+To: 03/08/2026
+Locations processed: 5
+Total compared rows: 5
+Mismatch/Missing rows: 5
+CSV: C:\Users\Admin\eclipse-workspace\SeleniumDemoAtul\playwright-demo-login\reports\reconciliation-1772959383167.csv
+Location errors:
+- 360- bar at mueller: Location tile not found: 360- bar at mueller
+- 363- Lubbock: Location tile not found: 363- Lubbock
+- 364- SA: Location tile not found: 364- SA
+- 365-Austin: Location tile not found: 365-Austin
+- 366- Georgetown: Location tile not found: 366- Georgetown

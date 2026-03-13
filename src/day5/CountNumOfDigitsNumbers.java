@@ -1,6 +1,6 @@
 package day5;
 
-import org.seleniumhq.jetty9.util.Scanner;
+//import org.seleniumhq.jetty9.util.Scanner;
 
 // Using Looping statement
 public class CountNumOfDigitsNumbers {

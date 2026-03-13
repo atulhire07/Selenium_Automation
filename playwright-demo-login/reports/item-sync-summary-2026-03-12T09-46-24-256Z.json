@@ -1,0 +1,26 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_50 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 1,
+    "commit": false
+  },
+  "generatedAt": "2026-03-12T09:45:29.597Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICH",
+      "status": "dry_run_ready",
+      "details": "Source item 353 resolved successfully."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "dry_run_ready": 1
+  }
+}

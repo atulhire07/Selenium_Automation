@@ -1,0 +1,580 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_400 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "offset": 0,
+    "limit": 80,
+    "commit": true
+  },
+  "generatedAt": "2026-03-13T08:52:33.573Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "Pastries Open",
+      "category": "Pastries",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 3,
+      "itemName": "CAKE SLICES",
+      "category": "Pastries",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 4,
+      "itemName": "SLICE PIE",
+      "category": "Pastries",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 5,
+      "itemName": "CHICKEN SALAD",
+      "category": "CHICKEN MOD",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 6,
+      "itemName": "TUNA SALAD",
+      "category": "CHICKEN MOD",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 7,
+      "itemName": "COLD CHICKEN",
+      "category": "CHICKEN MOD",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 10,
+      "itemName": "CREAM OF CHICKEN N RICE",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 11,
+      "itemName": "FRENCH ONION",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 12,
+      "itemName": "MINESTRONE",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 13,
+      "itemName": "TUSCANY WHITE BEAN",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 14,
+      "itemName": "SPLIT PEA",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 15,
+      "itemName": "CREAM OF POTATO LEEK",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 16,
+      "itemName": "CURRIED LENTIL",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 17,
+      "itemName": "BLACK BEAN CHILI",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 18,
+      "itemName": "CLAM CHOWDER",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 19,
+      "itemName": "CHICKEN NOODLE",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 20,
+      "itemName": "CHICKEN TORTILLA",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 21,
+      "itemName": "CORN CHOWDER",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 22,
+      "itemName": "BROCCOLI SOUP",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 23,
+      "itemName": "SEAFOOD CHOWDER",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 24,
+      "itemName": "GAZPACHO",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 25,
+      "itemName": "CREAM ASPARGUS",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 26,
+      "itemName": "BOWL UPGRADE",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 27,
+      "itemName": "BUTTERNUT SQUASH",
+      "category": "SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 46,
+      "itemName": "FRUIT SALAD",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 47,
+      "itemName": "POTATO SALAD",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 48,
+      "itemName": "SIDE SALAD",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 49,
+      "itemName": "PASTA SALAD",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 50,
+      "itemName": "BROCCOLI SALAD",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 51,
+      "itemName": "MAC N CHEESE",
+      "category": "SIDE COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 58,
+      "itemName": "CLUB",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 59,
+      "itemName": "TOFU",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 60,
+      "itemName": "HAM",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 61,
+      "itemName": "ROAST BEEF",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 62,
+      "itemName": "SALAMI",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 63,
+      "itemName": "TUNA",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 64,
+      "itemName": "TURKEY",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 65,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 66,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 67,
+      "itemName": "GRILLED CHEESE",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 68,
+      "itemName": "CALIF. BLT",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 69,
+      "itemName": "BLT",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 70,
+      "itemName": "CALIF BLT",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 83,
+      "itemName": "EXTRA  MAYO",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 84,
+      "itemName": "EXTRA REG. MUSTARD",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 85,
+      "itemName": "EXTRA DIJON MUSTARD",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 86,
+      "itemName": "SPLIT",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 87,
+      "itemName": "EXTRA CHEESE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 88,
+      "itemName": "EXTRA DRESSING",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 89,
+      "itemName": "MAYO ON SIDE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 90,
+      "itemName": "EXTRA LETTUCE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 91,
+      "itemName": "EXTRA MEAT",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 92,
+      "itemName": "DRESSING ON SIDE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 93,
+      "itemName": "SUB CHEDDAR",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 94,
+      "itemName": "SUB PROVOLONE CHEESE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 95,
+      "itemName": "1/2 AVACADO",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 96,
+      "itemName": "SEPARATE PLATE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 97,
+      "itemName": "Bacon Slices",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 98,
+      "itemName": "COLESLAW ON SIDE",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 99,
+      "itemName": "EXTRA HOT",
+      "category": "EXTRAS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 117,
+      "itemName": "NO CHEESE ON SOUP",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 118,
+      "itemName": "EXTRA CHEESE ON SOUP",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 119,
+      "itemName": "NO SOUR CREAM",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 120,
+      "itemName": "EXTRA SOUR CREAM",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 121,
+      "itemName": "NO CILANTRO",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 122,
+      "itemName": "EXTRA CILANTRO",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 123,
+      "itemName": "NO CROUTONS ON SOUP",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 124,
+      "itemName": "EXTRA CROUTONS ON SOUP",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 125,
+      "itemName": "EXTRA TORTILLAS",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 126,
+      "itemName": "NO PESTO OIL",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 127,
+      "itemName": "NO F.O. BREAD",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 128,
+      "itemName": "NO CREME FRAICHE",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 129,
+      "itemName": "NO TOPPINGS",
+      "category": "ADD SOUPS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 143,
+      "itemName": "ONLY AVACADO",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 144,
+      "itemName": "ONLY ONION",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 145,
+      "itemName": "ONLY CRUTONS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 146,
+      "itemName": "ONLY HARD BOILED EGG",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 147,
+      "itemName": "ONLY TOMATO",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 148,
+      "itemName": "ONLY ONIONS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 149,
+      "itemName": "ONLY SPROUTS",
+      "category": "ONLY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 80
+  }
+}

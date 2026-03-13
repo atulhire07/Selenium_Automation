@@ -1,0 +1,16 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_50 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 0,
+    "commit": true
+  },
+  "generatedAt": "2026-03-12T11:40:24.532Z",
+  "items": [],
+  "dialogs": [],
+  "counts": {}
+}

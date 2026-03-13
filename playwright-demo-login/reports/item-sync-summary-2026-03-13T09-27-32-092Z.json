@@ -1,0 +1,581 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_400 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "offset": 160,
+    "limit": 80,
+    "commit": true
+  },
+  "generatedAt": "2026-03-13T09:05:46.023Z",
+  "items": [
+    {
+      "excelRow": 288,
+      "itemName": "HAM PARKER",
+      "category": "PARKER ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 289,
+      "itemName": "TURKEY PARKER",
+      "category": "PARKER ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 290,
+      "itemName": "CHICKEN SALAD PARKER",
+      "category": "PARKER ROLLS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 294,
+      "itemName": "Brownies",
+      "category": "BARS/STRUDEL",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 295,
+      "itemName": "Lemn Bar",
+      "category": "BARS/STRUDEL",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 296,
+      "itemName": "Pecn Bar",
+      "category": "BARS/STRUDEL",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 297,
+      "itemName": "Cold Chicken",
+      "category": "SALAD CHICKEN",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 298,
+      "itemName": "Hot Chicken",
+      "category": "SALAD CHICKEN",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 299,
+      "itemName": "Scoop Tuna",
+      "category": "SALAD CHICKEN",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 300,
+      "itemName": "Scoop Chicken",
+      "category": "SALAD CHICKEN",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 305,
+      "itemName": "Crustini (2)",
+      "category": "SALAD ADD-ONS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 306,
+      "itemName": "X-Lettuce",
+      "category": "SALAD ADD-ONS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 307,
+      "itemName": "X-Cold Vegetables",
+      "category": "SALAD ADD-ONS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 308,
+      "itemName": "X-Roasted Vegt",
+      "category": "SALAD ADD-ONS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 309,
+      "itemName": "Walnuts",
+      "category": "SALAD ADD-ONS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 315,
+      "itemName": "Baja",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 316,
+      "itemName": "Grilled Chicken",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 317,
+      "itemName": "Pastrami",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 318,
+      "itemName": "Eggplant",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 319,
+      "itemName": "Monte Carlo",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 320,
+      "itemName": "Portabella",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 321,
+      "itemName": "Grill Vegetable",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 322,
+      "itemName": "French Dip",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 323,
+      "itemName": "Turkey Rueben",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 324,
+      "itemName": "SunDried Chicken",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 325,
+      "itemName": "Mealoaf",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 326,
+      "itemName": "Chicken Pesto",
+      "category": "GRILL SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 338,
+      "itemName": "Hot Chicken",
+      "category": "Sub Ck Breast",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 339,
+      "itemName": "Cold Chicken",
+      "category": "Sub Ck Breast",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 342,
+      "itemName": "Ham",
+      "category": "Egg Croist",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 343,
+      "itemName": "Spin/Mush",
+      "category": "Egg Croist",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 344,
+      "itemName": "Sausage",
+      "category": "Egg Croist",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 345,
+      "itemName": "Avocado/Bacon",
+      "category": "Egg Croist",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 346,
+      "itemName": "Chorizo",
+      "category": "Egg Croist",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 352,
+      "itemName": "PASTA SALAD",
+      "category": "SIDES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 353,
+      "itemName": "POTATO SALAD",
+      "category": "SIDES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 354,
+      "itemName": "BROCCOLI SALAD",
+      "category": "SIDES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 358,
+      "itemName": "Apple Walnut",
+      "category": "MUFFINS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 359,
+      "itemName": "Cherry Almond",
+      "category": "MUFFINS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 360,
+      "itemName": "Blueberry",
+      "category": "MUFFINS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 361,
+      "itemName": "Lemon Poppyseed",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2677."
+    },
+    {
+      "excelRow": 362,
+      "itemName": "Chocolate Chip",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2679."
+    },
+    {
+      "excelRow": 363,
+      "itemName": "Molasse Bran",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2681."
+    },
+    {
+      "excelRow": 364,
+      "itemName": "Assortment",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2683."
+    },
+    {
+      "excelRow": 365,
+      "itemName": "Double Choc.",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2685."
+    },
+    {
+      "excelRow": 366,
+      "itemName": "Choc. Caramel",
+      "category": "MUFFINS",
+      "status": "created",
+      "details": "Created from source item 2687."
+    },
+    {
+      "excelRow": 367,
+      "itemName": "Almond Paste",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2689."
+    },
+    {
+      "excelRow": 368,
+      "itemName": "Caramel Pecan Coconut",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2691."
+    },
+    {
+      "excelRow": 369,
+      "itemName": "Apple Walnut",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2693."
+    },
+    {
+      "excelRow": 370,
+      "itemName": "Apricot Cream",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2695."
+    },
+    {
+      "excelRow": 371,
+      "itemName": "Lemon Cream",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2697."
+    },
+    {
+      "excelRow": 372,
+      "itemName": "Blueberry Cream",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2699."
+    },
+    {
+      "excelRow": 373,
+      "itemName": "Beehive",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2701."
+    },
+    {
+      "excelRow": 374,
+      "itemName": "Vanilla Raisin Swirl",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2703."
+    },
+    {
+      "excelRow": 375,
+      "itemName": "Raspberry Figure Eight",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2705."
+    },
+    {
+      "excelRow": 376,
+      "itemName": "Apricot Figure Eight",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2707."
+    },
+    {
+      "excelRow": 377,
+      "itemName": "Apple Turnover",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2709."
+    },
+    {
+      "excelRow": 378,
+      "itemName": "Cherry Turnover",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2711."
+    },
+    {
+      "excelRow": 379,
+      "itemName": "Vanilla Brioche",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2713."
+    },
+    {
+      "excelRow": 380,
+      "itemName": "Blueberry Brioche",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2715."
+    },
+    {
+      "excelRow": 381,
+      "itemName": "Assortment",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2717."
+    },
+    {
+      "excelRow": 382,
+      "itemName": "Apple Lattice",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2719."
+    },
+    {
+      "excelRow": 383,
+      "itemName": "Pineapple",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2721."
+    },
+    {
+      "excelRow": 384,
+      "itemName": "Cream Cheese Croist",
+      "category": "DANISH",
+      "status": "created",
+      "details": "Created from source item 2723."
+    },
+    {
+      "excelRow": 385,
+      "itemName": "Cranberry Orange",
+      "category": "SCONES",
+      "status": "created",
+      "details": "Created from source item 2725."
+    },
+    {
+      "excelRow": 386,
+      "itemName": "Blueberry",
+      "category": "SCONES",
+      "status": "created",
+      "details": "Created from source item 2727."
+    },
+    {
+      "excelRow": 387,
+      "itemName": "Buttermilk Raisin",
+      "category": "SCONES",
+      "status": "created",
+      "details": "Created from source item 2729."
+    },
+    {
+      "excelRow": 388,
+      "itemName": "Assortment",
+      "category": "SCONES",
+      "status": "created",
+      "details": "Created from source item 2731."
+    },
+    {
+      "excelRow": 389,
+      "itemName": "White Choc Rasp",
+      "category": "SCONES",
+      "status": "created",
+      "details": "Created from source item 2733."
+    },
+    {
+      "excelRow": 390,
+      "itemName": "Candles",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2735."
+    },
+    {
+      "excelRow": 391,
+      "itemName": "Edible 8-14 Photo",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2737."
+    },
+    {
+      "excelRow": 392,
+      "itemName": "Edible 1/4 Photo",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2739."
+    },
+    {
+      "excelRow": 393,
+      "itemName": "Edible 1/2 Photo",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2741."
+    },
+    {
+      "excelRow": 394,
+      "itemName": "Edible Full Photo",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2743."
+    },
+    {
+      "excelRow": 395,
+      "itemName": "Fancy Full Decor",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2745."
+    },
+    {
+      "excelRow": 396,
+      "itemName": "Extra Fruit Border 6-9",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2747."
+    },
+    {
+      "excelRow": 397,
+      "itemName": "Extra Fruit Border 1/4 +",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2749."
+    },
+    {
+      "excelRow": 398,
+      "itemName": "Fruit Cover 8-10",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2751."
+    },
+    {
+      "excelRow": 399,
+      "itemName": "Fruit Cover 12-1/4",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2753."
+    },
+    {
+      "excelRow": 400,
+      "itemName": "Marzapan Strip",
+      "category": "CAKE ADD-ONS",
+      "status": "created",
+      "details": "Created from source item 2755."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 40,
+    "created": 40
+  }
+}

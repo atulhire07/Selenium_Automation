@@ -1,0 +1,9 @@
+location,employee,time_management_hours,tips_hours,status,note
+"360- bar at mueller","",,,MISMATCH,"Location processing failed: locator.click: Test timeout of 60000ms exceeded.
+Call log:
+[2m  - waiting for getByText(/reports/i).first()[22m
+"
+"363- Lubbock","",,,MISMATCH,"Location processing failed: page.goto: Target page, context or browser has been closed"
+"364- SA","",,,MISMATCH,"Location processing failed: page.goto: Target page, context or browser has been closed"
+"365-Austin","",,,MISMATCH,"Location processing failed: page.goto: Target page, context or browser has been closed"
+"366- Georgetown","",,,MISMATCH,"Location processing failed: page.goto: Target page, context or browser has been closed"

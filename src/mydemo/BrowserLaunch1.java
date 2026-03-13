@@ -12,7 +12,7 @@ public class BrowserLaunch1 {
 	
 		ChromeDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.google.com");
+		driver.get("https://test.nirvanaxp.com/vireglobal/");
 		
 		driver.close();
 		

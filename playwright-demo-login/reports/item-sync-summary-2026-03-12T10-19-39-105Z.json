@@ -1,0 +1,26 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\eclipse-workspace\\SeleniumDemoAtul\\playwright-demo-login\\test-results\\sandwiches-club.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 1,
+    "commit": false
+  },
+  "generatedAt": "2026-03-12T10:19:04.140Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "CLUB",
+      "category": "SANDWICHES",
+      "status": "dry_run_ready",
+      "details": "Source item 363 resolved successfully."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "dry_run_ready": 1
+  }
+}

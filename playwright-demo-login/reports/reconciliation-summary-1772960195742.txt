@@ -1,0 +1,12 @@
+From: 03/02/2026
+To: 03/08/2026
+Locations processed: 5
+Total compared rows: 5
+Mismatch/Missing rows: 5
+CSV: C:\Users\Admin\eclipse-workspace\SeleniumDemoAtul\playwright-demo-login\reports\reconciliation-1772960195741.csv
+Location errors:
+- 360- bar at mueller: No employee-hours table found in time management report.
+- 363- Lubbock: No employee-hours table found in time management report.
+- 364- SA: No employee-hours table found in time management report.
+- 365-Austin: No employee-hours table found in time management report.
+- 366- Georgetown: No employee-hours table found in time management report.

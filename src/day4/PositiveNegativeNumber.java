@@ -4,12 +4,12 @@ public class PositiveNegativeNumber {
 
 	public static void main(String[] args) {
 		
-		int num=-10;
+		int num=5;
 		
 		if(num>0)
 		{
 			
-		System.out.println("Postive Number");
+		System.out.println("Positive Number");
 		
 		}
 		else if (num<0)

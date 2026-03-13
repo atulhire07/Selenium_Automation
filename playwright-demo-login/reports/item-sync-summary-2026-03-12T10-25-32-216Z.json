@@ -1,0 +1,90 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\eclipse-workspace\\SeleniumDemoAtul\\playwright-demo-login\\test-results\\sandwiches-items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 10,
+    "commit": true
+  },
+  "generatedAt": "2026-03-12T10:20:59.371Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "CLUB",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 3,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 369."
+    },
+    {
+      "excelRow": 4,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 371."
+    },
+    {
+      "excelRow": 5,
+      "itemName": "PARKER ROLL",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 375."
+    },
+    {
+      "excelRow": 6,
+      "itemName": "MONTE CARLO",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 379."
+    },
+    {
+      "excelRow": 7,
+      "itemName": "HAM",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 385."
+    },
+    {
+      "excelRow": 8,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 387."
+    },
+    {
+      "excelRow": 9,
+      "itemName": "TUNA",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 389."
+    },
+    {
+      "excelRow": 10,
+      "itemName": "OPEN BISTRO",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 403."
+    },
+    {
+      "excelRow": 11,
+      "itemName": "CHICKEN PESTO",
+      "category": "SANDWICHES",
+      "status": "created",
+      "details": "Created from source item 411."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 1,
+    "created": 9
+  }
+}

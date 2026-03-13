@@ -1,0 +1,6 @@
+location,employee,time_management_hours,tips_hours,status,note
+"360- bar at mueller","",,,MISMATCH,"Location processing failed: No employee-hours table found in time management report."
+"363- Lubbock","",,,MISMATCH,"Location processing failed: No employee-hours table found in time management report."
+"364- SA","",,,MISMATCH,"Location processing failed: No employee-hours table found in time management report."
+"365-Austin","",,,MISMATCH,"Location processing failed: No employee-hours table found in time management report."
+"366- Georgetown","",,,MISMATCH,"Location processing failed: No employee-hours table found in time management report."

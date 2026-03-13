@@ -4,7 +4,7 @@
   <artifactId>SeleniumDemoAtul</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <dependecies>
+  </dependecies>
 	  
 	 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -14,7 +14,7 @@
 </dependency>
 	  
 	  
-  </dependecies>
+  <//dependecies>
   
  
   <build>

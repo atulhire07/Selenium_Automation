@@ -1,0 +1,364 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_50 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 49,
+    "commit": true
+  },
+  "generatedAt": "2026-03-12T09:48:42.089Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 3,
+      "itemName": "TUNA",
+      "category": "SANDWICH",
+      "status": "created",
+      "details": "Created from source item 355 (source duplicates: 3)."
+    },
+    {
+      "excelRow": 4,
+      "itemName": "HAM",
+      "category": "SANDWICH",
+      "status": "created",
+      "details": "Created from source item 357 (source duplicates: 3)."
+    },
+    {
+      "excelRow": 5,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICH",
+      "status": "created",
+      "details": "Created from source item 361 (source duplicates: 4)."
+    },
+    {
+      "excelRow": 6,
+      "itemName": "CLUB",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 7,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICH",
+      "status": "created",
+      "details": "Created from source item 367 (source duplicates: 5)."
+    },
+    {
+      "excelRow": 8,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 9,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 10,
+      "itemName": "PARKER ROLL",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 11,
+      "itemName": "MONTE CARLO",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 12,
+      "itemName": "HAM",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 13,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 14,
+      "itemName": "TUNA",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 15,
+      "itemName": "OPEN BISTRO",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 16,
+      "itemName": "CHICKEN PESTO",
+      "category": "SANDWICHES",
+      "status": "target_option_missing",
+      "details": "Missing target options: new_category_id: sandwiches"
+    },
+    {
+      "excelRow": 17,
+      "itemName": "TOSSED GREEN",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 413."
+    },
+    {
+      "excelRow": 18,
+      "itemName": "NICOISE WITH TUNA",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 421."
+    },
+    {
+      "excelRow": 19,
+      "itemName": "AVACADO SALAD",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 425."
+    },
+    {
+      "excelRow": 20,
+      "itemName": "APPLE SALAD",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 427."
+    },
+    {
+      "excelRow": 21,
+      "itemName": "FRUIT SALAD",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 429."
+    },
+    {
+      "excelRow": 22,
+      "itemName": "POTATO SALAD",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 431."
+    },
+    {
+      "excelRow": 23,
+      "itemName": "PASTA SALAD",
+      "category": "SALADS",
+      "status": "created",
+      "details": "Created from source item 457."
+    },
+    {
+      "excelRow": 24,
+      "itemName": "HAM QUICHE",
+      "category": "QUICHE",
+      "status": "created",
+      "details": "Created from source item 459."
+    },
+    {
+      "excelRow": 25,
+      "itemName": "SPIN/MUSHROOM QUICHE",
+      "category": "QUICHE",
+      "status": "created",
+      "details": "Created from source item 461."
+    },
+    {
+      "excelRow": 26,
+      "itemName": "BROCCOLI QUICHE",
+      "category": "QUICHE",
+      "status": "created",
+      "details": "Created from source item 463."
+    },
+    {
+      "excelRow": 27,
+      "itemName": "ZUCHINNI/BACON QUICHE",
+      "category": "QUICHE",
+      "status": "created",
+      "details": "Created from source item 465."
+    },
+    {
+      "excelRow": 28,
+      "itemName": "Broken Quiche",
+      "category": "QUICHE",
+      "status": "created",
+      "details": "Created from source item 467."
+    },
+    {
+      "excelRow": 29,
+      "itemName": "QUICHE SPECIAL",
+      "category": "COMBOS",
+      "status": "created",
+      "details": "Created from source item 501."
+    },
+    {
+      "excelRow": 30,
+      "itemName": "WHOLE COLD COMBO",
+      "category": "COMBOS",
+      "status": "created",
+      "details": "Created from source item 507."
+    },
+    {
+      "excelRow": 31,
+      "itemName": "GRILL WHOLE COMBO",
+      "category": "COMBOS",
+      "status": "created",
+      "details": "Created from source item 509."
+    },
+    {
+      "excelRow": 32,
+      "itemName": "PARKER ROLL SPECIAL",
+      "category": "COMBOS",
+      "status": "created",
+      "details": "Created from source item 513."
+    },
+    {
+      "excelRow": 33,
+      "itemName": "BISTRO ROLL",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 525."
+    },
+    {
+      "excelRow": 34,
+      "itemName": "CUP SOUP",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 529."
+    },
+    {
+      "excelRow": 35,
+      "itemName": "BOWL SOUP",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 531."
+    },
+    {
+      "excelRow": 36,
+      "itemName": "HAM QUICHE",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 537."
+    },
+    {
+      "excelRow": 37,
+      "itemName": "BROCCOLI QUICHE",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 539."
+    },
+    {
+      "excelRow": 38,
+      "itemName": "ZUCH/BACON QUICHE",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 541."
+    },
+    {
+      "excelRow": 39,
+      "itemName": "SPIN/MUSH QUICHE",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 543."
+    },
+    {
+      "excelRow": 40,
+      "itemName": "Egg Croissant",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 545."
+    },
+    {
+      "excelRow": 41,
+      "itemName": "Broken Quiche",
+      "category": "ALA CARTE",
+      "status": "created",
+      "details": "Created from source item 559."
+    },
+    {
+      "excelRow": 42,
+      "itemName": "UNDER 5 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "created",
+      "details": "Created from source item 675."
+    },
+    {
+      "excelRow": 43,
+      "itemName": "5-10 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "created",
+      "details": "Created from source item 677."
+    },
+    {
+      "excelRow": 44,
+      "itemName": "10-15 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "created",
+      "details": "Created from source item 679."
+    },
+    {
+      "excelRow": 45,
+      "itemName": "$10.00 DELIVERY",
+      "category": "DELIVERY",
+      "status": "created",
+      "details": "Created from source item 681."
+    },
+    {
+      "excelRow": 46,
+      "itemName": "Open Deposit",
+      "category": "DEPOSIT",
+      "status": "created",
+      "details": "Created from source item 683."
+    },
+    {
+      "excelRow": 47,
+      "itemName": "1/2 Soup",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "created",
+      "details": "Created from source item 707."
+    },
+    {
+      "excelRow": 48,
+      "itemName": "Baja Parker",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "created",
+      "details": "Created from source item 709."
+    },
+    {
+      "excelRow": 49,
+      "itemName": "Meat 2 Slices",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "created",
+      "details": "Created from source item 711."
+    },
+    {
+      "excelRow": 50,
+      "itemName": "Apple Juice",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "created",
+      "details": "Created from source item 743."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 1,
+    "created": 38,
+    "target_option_missing": 10
+  }
+}

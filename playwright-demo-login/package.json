@@ -1,0 +1,17 @@
+{
+  "name": "playwright-demo-login",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:reconcile": "playwright test tests/timecard-tips-reconciliation.spec.ts --reporter=html",
+    "sync:items": "node scripts/sync-location-items.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "dotenv": "^16.4.7",
+    "xlsx": "^0.18.5"
+  }
+}

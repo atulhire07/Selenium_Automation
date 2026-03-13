@@ -1,0 +1,362 @@
+{
+  "config": {
+    "baseUrl": "https://live.nirvanaxp.com",
+    "excelPath": "C:\\Users\\Admin\\Downloads\\La Boulangerie_50 items.xlsx",
+    "sourceLocationId": "1",
+    "sourceLocationName": "La Boulangerie",
+    "targetLocationId": "66",
+    "targetLocationName": "La Boulangerie 1",
+    "limit": 49,
+    "commit": true
+  },
+  "generatedAt": "2026-03-12T11:27:37.860Z",
+  "items": [
+    {
+      "excelRow": 2,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 3,
+      "itemName": "TUNA",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 4,
+      "itemName": "HAM",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 5,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 6,
+      "itemName": "CLUB",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 7,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICH",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 8,
+      "itemName": "VEGETARIAN",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 9,
+      "itemName": "CHICKEN SALAD",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 10,
+      "itemName": "PARKER ROLL",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 11,
+      "itemName": "MONTE CARLO",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 12,
+      "itemName": "HAM",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 13,
+      "itemName": "TURKEY ON 3SEED",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 14,
+      "itemName": "TUNA",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 15,
+      "itemName": "OPEN BISTRO",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 16,
+      "itemName": "CHICKEN PESTO",
+      "category": "SANDWICHES",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 17,
+      "itemName": "TOSSED GREEN",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 18,
+      "itemName": "NICOISE WITH TUNA",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 19,
+      "itemName": "AVACADO SALAD",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 20,
+      "itemName": "APPLE SALAD",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 21,
+      "itemName": "FRUIT SALAD",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 22,
+      "itemName": "POTATO SALAD",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 23,
+      "itemName": "PASTA SALAD",
+      "category": "SALADS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 24,
+      "itemName": "HAM QUICHE",
+      "category": "QUICHE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 25,
+      "itemName": "SPIN/MUSHROOM QUICHE",
+      "category": "QUICHE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 26,
+      "itemName": "BROCCOLI QUICHE",
+      "category": "QUICHE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 27,
+      "itemName": "ZUCHINNI/BACON QUICHE",
+      "category": "QUICHE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 28,
+      "itemName": "Broken Quiche",
+      "category": "QUICHE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 29,
+      "itemName": "QUICHE SPECIAL",
+      "category": "COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 30,
+      "itemName": "WHOLE COLD COMBO",
+      "category": "COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 31,
+      "itemName": "GRILL WHOLE COMBO",
+      "category": "COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 32,
+      "itemName": "PARKER ROLL SPECIAL",
+      "category": "COMBOS",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 33,
+      "itemName": "BISTRO ROLL",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 34,
+      "itemName": "CUP SOUP",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 35,
+      "itemName": "BOWL SOUP",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 36,
+      "itemName": "HAM QUICHE",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 37,
+      "itemName": "BROCCOLI QUICHE",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 38,
+      "itemName": "ZUCH/BACON QUICHE",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 39,
+      "itemName": "SPIN/MUSH QUICHE",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 40,
+      "itemName": "Egg Croissant",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 41,
+      "itemName": "Broken Quiche",
+      "category": "ALA CARTE",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 42,
+      "itemName": "UNDER 5 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 43,
+      "itemName": "5-10 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 44,
+      "itemName": "10-15 MILES DELIVERY",
+      "category": "DELIVERY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 45,
+      "itemName": "$10.00 DELIVERY",
+      "category": "DELIVERY",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 46,
+      "itemName": "Open Deposit",
+      "category": "DEPOSIT",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 47,
+      "itemName": "1/2 Soup",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 48,
+      "itemName": "Baja Parker",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 49,
+      "itemName": "Meat 2 Slices",
+      "category": "EMPLOYEE PRICES 1",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    },
+    {
+      "excelRow": 50,
+      "itemName": "Apple Juice",
+      "category": "EMPLOYEE PRICES 2",
+      "status": "already_exists",
+      "details": "Found 1 existing target match(es)."
+    }
+  ],
+  "dialogs": [],
+  "counts": {
+    "already_exists": 49
+  }
+}
