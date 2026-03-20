@@ -1,0 +1,7 @@
+<suite name="Suite">
+    <test name="GoogleTest">
+        <classes>
+            <class name="mydemo.GoogleTest"/>
+        </classes>
+    </test>
+</suite>
